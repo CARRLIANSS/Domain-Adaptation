@@ -37,7 +37,7 @@ CUDA_VISIBLE_DEVICES=0,3 python -m torch.distributed.launch --nproc_per_node=2 -
 
 Don't forget to modify config.py, you should modify it according to your environment and algorithm what you need.
 
-## 5. contribution
+## 5. Contribution
 
 The repository has re-integrated the code and provides single-gpu and multi-gpu training scripts.
 
@@ -45,7 +45,7 @@ The repository has re-integrated the code and provides single-gpu and multi-gpu 
 
 We borrow code from public projects. We mainly borrow code from [DeepDA](https://github.com/jindongwang/transferlearning/tree/master/code/DeepDA).
 
-## 6. Reference
+## 7. Reference
 
 [1] Long, Mingsheng, et al. "Learning transferable features with deep adaptation networks." International conference on machine learning. PMLR, 2015.
 
