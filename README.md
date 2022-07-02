@@ -13,7 +13,7 @@ As initial version, we support the following algoirthms.
 
 Office31 download: 链接：https://pan.baidu.com/s/1Ndez_lhIx02L9Lpcc8H3pA  提取码：ltf0
 
-put it in this **data** directory
+put it in **data** directory
 
 ## 2. Model
 
